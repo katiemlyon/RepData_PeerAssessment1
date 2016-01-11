@@ -1,4 +1,6 @@
 # Reproducible Research: Peer Assessment 1
+Katie Lyon  
+January 10, 2016  
 
 
 
